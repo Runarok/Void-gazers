@@ -2,29 +2,62 @@
 
 A collection of theories, stories, and reflections on existential crisis, the absurdity of life, and the search for meaning in a meaningless universe.
 
-## 🌌 About  
-This repository explores existential dread, nihilism, absurdism, and the human condition through stories, essays, and philosophical musings. Whether you’re staring into the void or just curious about existence, this is a space for deep thoughts and deeper crises.
+---
 
-## 📖 Contents  
-- **Theories & Philosophies** – Discussions on existentialism, absurdism, nihilism, and more.  
-- **Short Stories** – Fictional explorations of existential themes.  
-- **Reflections** – Personal thoughts, essays, and meditations on existence.  
-- **Recommended Readings** – Books and essays that shaped existential thought.  
+## 📁 Repository Structure  
 
-## 🚀 How to Contribute  
-1. Fork the repository.  
-2. Write your thoughts, stories, or theories.  
-3. Submit a pull request.  
-
-Contributions can be in the form of:  
-- Short stories exploring existential themes.  
-- Essays discussing existentialist philosophers and ideas.  
-- Personal reflections on the absurdity of life.  
-
-## 🎭 Why?  
-Because sometimes, staring into the abyss is the only way to truly see.  
+<pre>
+void-gazers/
+├── README.md             # Introduction and project overview
+├── LICENSE               # License file for terms of use
+├── CONTRIBUTING.md       # Guidelines for contributions (Future additions)
+├── 📜 theories/          # Philosophical discussions on existentialism, nihilism, absurdism, etc.
+├── 📖 stories/           # Fictional narratives exploring existential themes
+├── ✍️ reflections/       # Personal essays and meditations on existence
+├── 📚 reading-list.md    # A collection of recommended books, essays, and resources
+├── 🌌 misc/              # Miscellaneous files like quotes and random thoughts
+│   ├── quotes.md
+│   ├── random-thoughts.md
+</pre>
 
 ---
 
-_“Man stands face to face with the irrational. He feels within him his longing for happiness and for reason. The absurd is born of this confrontation between the human need and the unreasonable silence of the world.”_  
-— Albert Camus, *The Myth of Sisyphus*
+## 📖 Directory Breakdown  
+
+- **[`README.md`](README.md)**  
+  Overview of the repository, its purpose, and how to contribute.
+
+- **[`theories/`](./theories/)**  
+  Contains discussions and explanations of existential philosophies:
+
+- **[`stories/`](./stories/)**  
+  A collection of fictional works dealing with existential themes.
+
+- **[`reflections/`](./reflections/)**  
+  Essays and personal musings on existential crisis.
+
+- **[`reading-list.md`](./reading-list.md)**  
+  A curated selection of books, essays, and philosophical works for further exploration.
+
+- **[`misc/`](./misc/)**  
+  Random existential thoughts, quotes, and ideas.
+  - **[`quotes.md`](./misc/quotes.md)** – A collection of philosophical quotes on existence.
+  - **[`random-thoughts.md`](./misc/random-thoughts.md)** – Unfiltered thoughts on life and meaning.
+
+---
+
+## 🚀 How to Contribute  
+
+1. **Fork the repository** and clone it to your local machine.  
+2. **Write your thoughts, stories, or theories** in the appropriate folder.  
+3. **Submit a pull request**, and let the existential dread consume you.  
+
+---
+
+## 🎭 Why This Project?  
+
+Because sometimes, staring into the abyss is the only way to truly see.  
+
+_“Man stands face to face with the irrational. He feels within him his longing for happiness and for reason.  
+The absurd is born of this confrontation between the human need and the unreasonable silence of the world.”_  
+— Albert Camus, *The Myth of Sisyphus*  
